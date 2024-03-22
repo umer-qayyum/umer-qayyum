@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React/Redux/ReduxToolkit**
+- 🌱 I’ve learned **React/Redux/ReduxToolkit**
+  
+- 🌱 I’m currently learning **NodeJs/ExpressJs/MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/umer-qayyum](https://github.com/umer-qayyum)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and MERN**
 
 - 📫 How to reach me **mohammedumer3353@gmail.com**
 
